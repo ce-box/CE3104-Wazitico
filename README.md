@@ -1,7 +1,7 @@
 # CE3104 - Wazitico
 <p align=justify>First course project (CE3104) 'Languages, Compilers and interpreters' focused on the functional programming paradigm.</p>
 
-<p align=center><img src="https://github.com/AlejandroIbarraC/Wazitico/blob/master/docs/tech-doc/imgs-src/wazitico-logo" heigth="100"></p>
+<p align=center><img src="https://github.com/AlejandroIbarraC/Wazitico/blob/master/docs/tech-doc/imgs-src/wazitico-logo" height="200"></p>
 
 ***
 # Wazi-tico
@@ -37,9 +37,9 @@ Waze is a real-time traffic application and GPS-assisted navigation.</p>
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type 'git clone', and then paste the URL that you copied in Step 2.
 
-   ```$ git clone https://github.com/AlejandroIbarraC/Wazitico.git```
+   ```$ git clone https://github.com/estalvgs1999/CE3104-Wazitico.git```
 
-7. Press Enter. Your local clone will be created for [CE3104-Wazitico](https://github.com/AlejandroIbarraC/Wazecheme.git).
+7. Press Enter. Your local clone will be created for [CE3104-Wazitico](https://github.com/estalvgs1999/CE3104-Wazitico.git).
 8. Now you can access the examples contained in this repository; but remember to be aware because I am constantly uploading new material.
 
 ### Prerequisites
@@ -60,10 +60,18 @@ $ sudo apt-get install racket
 ### Usage
 <p align=justify>To use the app you must follow the following instructions:</p>
 
-```Scheme
-Exampleof use
 ```
-<p align=justify>To learn how to use the waze scheme you can consult our user manual. If you are one of those who seeks to know, how does the program work?
+1. Open the editor of Dr Racket
+2. Open the file ui.rkt
+3. Run the program from the code editor
+```
+<p align="justify">
+  <img src="https://bit.ly/2Zy4DYQ" height=345>
+  
+  <img src="https://bit.ly/2U8gasT" height=345>
+</p>
+
+<p align=justify>To learn how to use the waze scheme you can consult our <a href="https://github.com/estalvgs1999/CE3104-Wazitico/blob/master/docs/manual-usuario.pdf">user manual</a>. If you are one of those who seeks to know, how does the program work?
 Review the technical documentation.</p>
 
 
