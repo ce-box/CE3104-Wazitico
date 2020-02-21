@@ -66,9 +66,9 @@ $ sudo apt-get install racket
 3. Run the program from the code editor
 ```
 <p align="justify">
-  <img src="https://bit.ly/2Zy4DYQ" height=345>
+  <img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1566313255/CE3104/Wazitico/Screen_Shot_2019-08-18_at_2.57.20_PM_qclkzb.png" height=345>
   
-  <img src="https://bit.ly/2U8gasT" height=345>
+  <img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1566313253/CE3104/Wazitico/Screen_Shot_2019-08-18_at_2.59.21_PM_ho3ypp.png" height=345>
 </p>
 
 <p align=justify>To learn how to use the waze scheme you can consult our <a href="https://github.com/estalvgs1999/CE3104-Wazitico/blob/master/docs/manual-usuario.pdf">user manual</a>. If you are one of those who seeks to know, how does the program work?
